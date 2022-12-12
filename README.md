@@ -2,7 +2,7 @@
 ## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
 ![README.md](/preview.png)
 
-#### Pode ser jogado por **1 jogador** (contra um *jogador artificial*) ou por **2 jogadores**.<br /><br />
+####<br /><br />
 
 
 ##### Novo projeto: HTML,CSS,JAVASCRIT.
@@ -11,7 +11,7 @@
 - 100% Responsivo.
 
 ## Links:
-- Projeto:https://matheusdesouzasilva70.github.io/JogoDaVelha/
+- Projeto:https://matheusdesouzasilva70.github.io/LojaRolex/
 - Portfolio:https://matheusdesouzasilva70.github.io/Portfolio/
 - LinkedIn:https://www.linkedin.com/in/matheus-de-souza-silva-288194229/
 
