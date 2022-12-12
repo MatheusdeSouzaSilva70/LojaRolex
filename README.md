@@ -1,13 +1,20 @@
-# Responsive Watches Website ⌚
+#  ⌚
 ## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
-### Responsive Watches Website ⌚
+![README.md](/preview.png)
 
-- Responsive Watches Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+#### Pode ser jogado por **1 jogador** (contra um *jogador artificial*) ou por **2 jogadores**.<br /><br />
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview.png)
+##### Novo projeto: HTML,CSS,JAVASCRIT.
+
+## Recursos
+- 100% Responsivo.
+
+## Links:
+- Projeto:https://matheusdesouzasilva70.github.io/JogoDaVelha/
+- Portfolio:https://matheusdesouzasilva70.github.io/Portfolio/
+- LinkedIn:https://www.linkedin.com/in/matheus-de-souza-silva-288194229/
+
+## Autor:
+**Matheus de Souza Silva**
+**Projeto pessoal**
