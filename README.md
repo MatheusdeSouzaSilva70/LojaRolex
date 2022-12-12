@@ -2,8 +2,6 @@
 ## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
 ![README.md](/preview.png)
 
-####<br /><br />
-
 
 ##### Novo projeto: HTML,CSS,JAVASCRIT.
 
