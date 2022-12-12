@@ -1,4 +1,4 @@
-#  ⌚
+# Loja Rolex⌚
 ## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
 ![README.md](/preview.png)
 
@@ -17,4 +17,4 @@
 
 ## Autor:
 **Matheus de Souza Silva**
-**Projeto pessoal**
+
